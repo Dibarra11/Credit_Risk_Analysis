@@ -25,4 +25,11 @@ The project is based using six different machine learning models to determine if
 - Balanced Accuracy Score was 0.5442
 - For high risk loans, the precision and recall was 0.01 and 0.69 respectively. For low risk loans, the precision and recall was 1.00 and 0.40 respectively.
 
+![image](https://github.com/Dibarra11/Credit_Risk_Analysis-/blob/7fc5e3fa57c75fe2e9181d56000b9baab258fb50/Undersampling%20Via%20Cluster%20Centroids.png)
+
+4)SMOTEEN Sampling
+
+- Balanced Accuracy Score was 0.6748
+- For high risk loans, the precision and recall was 0.01 and 0.76 respectively. For low risk loans, the precision and recall was 1.00 and 0.59 respectively.
+
 ![image]()
