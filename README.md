@@ -50,3 +50,5 @@ The project is based using six different machine learning models to determine if
 
 ## Summary
 
+The Combination (Over and Under) Sampling showed a better-balanced accuracy score - about 68% (against random oversampling at 65%, SMOTE oversampling at 66%, and undersampling at 64.4%). However, the Easy ensemble classifier model got a higher balanced accuracy score (93%) than the balanced random forest classifier (79%). Thus both classification models performed better accuracy scores than the sampling models. F1 score is highest for Easy Ensemble AdaBoost Classifier - 97%. All the models show much more false-positive over true-positive results, which means a lot of customers' credit cards will be restricted for no reason. These models are unsuitable for commercial use, and further consideration/processing should be done in case the model was partially used in the decision-making process.
+
