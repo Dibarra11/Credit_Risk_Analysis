@@ -39,4 +39,11 @@ The project is based using six different machine learning models to determine if
 - Balanced Accuracy Score was 0.7885
 - For high risk loans, the precision and recall was 0.03 and 0.70 respectively. For low risk loans, the precision and recall was 1.00 and 0.87 respectively
 
+![image](https://github.com/Dibarra11/Credit_Risk_Analysis-/blob/783bdc90620824efca8da51b9ed0003b1e39123c/Balanced%20Random%20Forest%20Classifier.png)
+
+6)Easy Ensemble AdaBoost Classifier
+
+- Balanced Accuracy Score was 0.93166
+- For high risk loans, the precision and recall was 0.09 and 0.92 respectively. For low risk loans, the precision and recall was 1.00 and 0.94 respectively.
+
 ![image]()
